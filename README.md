@@ -2,9 +2,17 @@
 
 This repository contains my Assignment 5 submission for QTM 350.
 
-## Links to Published Pages
-- ** Report**: [View Report](https://github.com/cindyxyyw/qtm350-assignment5/blob/main/Assignment%205%20Literate%20Programming%20with%20Quarto.html)
-- ** Presentation**: [View Presentation](https://github.com/cindyxyyw/qtm350-assignment5/blob/main/presentation.html)
+## Project Files
+
+The following files are included in this repository:
+
+- **Report (PDF Format):** [Assignment-5-Literate-Programming-with-Quarto.pdf](Assignment-5-Literate-Programming-with-Quarto.pdf)
+- **Quarto Source Files:**
+  - [Assignment 5 Quarto Report](Assignment\ 5\ Literate\ Programming\ with\ Quarto.qmd)
+  - [Presentation Quarto File](presentation.qmd)
+
+These files contain the analysis, data visualizations, and findings of the project.
+
 
 ## Files Included
 - **Assignment 5 Report** (`Assignment 5 Literate Programming with Quarto.qmd`)
